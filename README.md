@@ -1,4 +1,4 @@
-![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
+
 <h1 align="center">Hi 👋, I'm Pedro Linhares</h1>
 <h3 align="center">I'm a Full Stack developer !</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
